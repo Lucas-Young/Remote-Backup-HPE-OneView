@@ -1,5 +1,5 @@
 # Remote-Backup-HPE-OneView
-#Pulls backup files from OneView appliances and stores on target system - This solution is to be used if for some reason using the automatic backups is not an option.
+#Pulls backup files from OneView appliances and stores on target system - This solution is to be used if for some reason the built in automatic backup option doesn't work.
 #For a script more code to create automatic backups on appliances, please refer to other GitHub repository entitled Configuring Automatic Backups in OneView
 
 
